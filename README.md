@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **problem solvers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fahimbug](https://github.com/fahimbug)
+- 👨‍💻 All of my projects are available at [https://github.com/fahimbug](https://github.com/fahimmahmud17)
 
 - 📫 How to reach me **fahimmahmudd17@gmail.com**
 
